@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - Color Changer
 
 Submitted by: Ameya Sansguiri
 
-**Name of your app** is an app that... [TODO] 
+Color changer is an app that displays things about me, like my name, the university I attend, and the job I wish to have.
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -27,7 +27,19 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-
+    GoodReads
+    - Able to select books you want to read and put it in a folder
+    - Able to connect with friends and see what they've recently read
+    - Can see people's reviews of books and the book's overall rating
+    
+    FitBit
+    - Can track your steps throughout the week/month/year
+    - Motivates you by showing the number of "zone minutes" you had
+    
+    Spotify
+    - Makes daily mixes for you
+    - Gives you a "Wrapped" playlist at the end of the year
+    
 ## Notes
 
 Describe any challenges encountered while building the app.
