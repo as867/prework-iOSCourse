@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=![mytest](https://imgur.com/HrcE3bQ.gif) title='Video Walkthrough' width='40' height='40'  alt='Video Walkthrough' />
+<!--<img src=![mytest](https://imgur.com/HrcE3bQ.gif) title='Video Walkthrough' width='40' height='40'  alt='Video Walkthrough' />-->
+<img src=![mytest] "https://imgur.com/HrcE3bQ.gif" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
