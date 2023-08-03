@@ -40,6 +40,8 @@ GIF created with ...
     - Makes daily mixes for you
     - Gives you a "Wrapped" playlist at the end of the year
     
+    I would like to build a calendar app where you would be able to add tasks you have to complete. The app would consist of a home screen, a calendar screen, and a social screen. The home screen would display what users have to complete today, as well as any reminders they may have set for themselves. The calendar screen would show a calendar and allow users to add/edit tasks on a specific date and time. They will  also be able to choose if they would like to recieve reminders. The social screen would display the user's friends and allow them to see their calendars, making it easier for friends to meet up to study or just to catch up.
+    
 ## Notes
 
 Describe any challenges encountered while building the app.
