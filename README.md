@@ -4,7 +4,7 @@ Submitted by: Ameya Sansguiri
 
 Color changer is an app that displays things about me, like my name, the university I attend, and the job I wish to have.
 
-Time spent: 1 hours spent in total
+Time spent: 1.5 hours spent in total
 
 ## Required Features
 
@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///private/var/folders/8d/dxp_bv6s3cs8b3fqp_dj86800000gn/T/ed727bcdbea31271752cf8718bf7d47b/Kapture%202023-08-03%20at%2009.53.54.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/l7Sa1ZO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
